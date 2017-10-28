@@ -1,0 +1,152 @@
+CLASE DE: Programacion POR NOMBRE COMPLETO: Lopez, Juan 
+NACIONALIDAD: Argentino
+
+LEGAJO NUMERO: 1
+
+Clases del dia: 
+Programacion
+Programacion
+
+
+ALUMNOS:
+NOMBRE COMPLETO: Lopez, Juan 
+NACIONALIDAD: Argentino
+
+LEGAJO NUMERO: 1
+
+ESTADO DE CUENTA: Becado
+TOMA CLASE DE: Programacion
+
+NOMBRE COMPLETO: Gutierrez, José 
+NACIONALIDAD: Argentino
+
+LEGAJO NUMERO: 3
+
+ESTADO DE CUENTA: Becado
+TOMA CLASE DE: Programacion
+
+NOMBRE COMPLETO: Gonzalez, Carlos 
+NACIONALIDAD: Argentino
+
+LEGAJO NUMERO: 5
+
+ESTADO DE CUENTA: AlDia
+TOMA CLASE DE: Programacion
+
+
+
+<------------------------------------------------>
+
+
+CLASE DE: Legislacion POR NOMBRE COMPLETO: Lopez, Juan 
+NACIONALIDAD: Argentino
+
+LEGAJO NUMERO: 1
+
+Clases del dia: 
+Legislacion
+Legislacion
+
+
+ALUMNOS:
+NOMBRE COMPLETO: Hernandez, Miguel 
+NACIONALIDAD: Extranjero
+
+LEGAJO NUMERO: 4
+
+ESTADO DE CUENTA: AlDia
+TOMA CLASE DE: Legislacion
+
+NOMBRE COMPLETO: Smith, Rodrigo 
+NACIONALIDAD: Argentino
+
+LEGAJO NUMERO: 8
+
+ESTADO DE CUENTA: AlDia
+TOMA CLASE DE: Legislacion
+
+
+
+<------------------------------------------------>
+
+
+CLASE DE: Programacion POR NOMBRE COMPLETO: Juarez, Roberto 
+NACIONALIDAD: Argentino
+
+LEGAJO NUMERO: 2
+
+Clases del dia: 
+Programacion
+Legislacion
+
+
+ALUMNOS:
+NOMBRE COMPLETO: Lopez, Juan 
+NACIONALIDAD: Argentino
+
+LEGAJO NUMERO: 1
+
+ESTADO DE CUENTA: Becado
+TOMA CLASE DE: Programacion
+
+NOMBRE COMPLETO: Gutierrez, José 
+NACIONALIDAD: Argentino
+
+LEGAJO NUMERO: 3
+
+ESTADO DE CUENTA: Becado
+TOMA CLASE DE: Programacion
+
+NOMBRE COMPLETO: Gonzalez, Carlos 
+NACIONALIDAD: Argentino
+
+LEGAJO NUMERO: 5
+
+ESTADO DE CUENTA: AlDia
+TOMA CLASE DE: Programacion
+
+
+
+<------------------------------------------------>
+
+
+CLASE DE: Programacion POR NOMBRE COMPLETO: Lopez, Juan 
+NACIONALIDAD: Argentino
+
+LEGAJO NUMERO: 1
+
+Clases del dia: 
+Programacion
+Laboratorio
+
+
+ALUMNOS:
+NOMBRE COMPLETO: Lopez, Juan 
+NACIONALIDAD: Argentino
+
+LEGAJO NUMERO: 1
+
+ESTADO DE CUENTA: Becado
+TOMA CLASE DE: Programacion
+
+NOMBRE COMPLETO: Gutierrez, José 
+NACIONALIDAD: Argentino
+
+LEGAJO NUMERO: 3
+
+ESTADO DE CUENTA: Becado
+TOMA CLASE DE: Programacion
+
+NOMBRE COMPLETO: Gonzalez, Carlos 
+NACIONALIDAD: Argentino
+
+LEGAJO NUMERO: 5
+
+ESTADO DE CUENTA: AlDia
+TOMA CLASE DE: Programacion
+
+
+
+<------------------------------------------------>
+
+

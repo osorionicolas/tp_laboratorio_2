@@ -1,0 +1,32 @@
+F:\Osorio.Nicolas.2D.TP3\Clases instanciables\obj\Debug\Clases instanciables.csprojResolveAssemblyReference.cache
+D:\Osorio.Nicolas.2D.TP3\Clases instanciables\obj\Debug\Clases instanciables.csprojResolveAssemblyReference.cache
+D:\Osorio.Nicolas.2D.TP3\Clases instanciables\bin\Debug\Clases instanciables.dll
+D:\Osorio.Nicolas.2D.TP3\Clases instanciables\bin\Debug\Clases instanciables.pdb
+D:\Osorio.Nicolas.2D.TP3\Clases instanciables\bin\Debug\Clases abstractas.dll
+D:\Osorio.Nicolas.2D.TP3\Clases instanciables\bin\Debug\Clases abstractas.pdb
+D:\Osorio.Nicolas.2D.TP3\Clases instanciables\obj\Debug\Clases instanciables.dll
+D:\Osorio.Nicolas.2D.TP3\Clases instanciables\obj\Debug\Clases instanciables.pdb
+D:\Osorio.Nicolas.2D.TP3\Clases instanciables\bin\Debug\Excepciones.dll
+D:\Osorio.Nicolas.2D.TP3\Clases instanciables\bin\Debug\Excepciones.pdb
+C:\Users\Lenovo\Desktop\Osorio.Nicolas.2D.TP3\Clases instanciables\bin\Debug\Clases instanciables.dll
+C:\Users\Lenovo\Desktop\Osorio.Nicolas.2D.TP3\Clases instanciables\bin\Debug\Clases instanciables.pdb
+C:\Users\Lenovo\Desktop\Osorio.Nicolas.2D.TP3\Clases instanciables\bin\Debug\Clases abstractas.dll
+C:\Users\Lenovo\Desktop\Osorio.Nicolas.2D.TP3\Clases instanciables\bin\Debug\Excepciones.dll
+C:\Users\Lenovo\Desktop\Osorio.Nicolas.2D.TP3\Clases instanciables\bin\Debug\Clases abstractas.pdb
+C:\Users\Lenovo\Desktop\Osorio.Nicolas.2D.TP3\Clases instanciables\bin\Debug\Excepciones.pdb
+C:\Users\Lenovo\Desktop\Osorio.Nicolas.2D.TP3\Clases instanciables\obj\Debug\Clases instanciables.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Desktop\Osorio.Nicolas.2D.TP3\Clases instanciables\obj\Debug\Clases instanciables.dll
+C:\Users\Lenovo\Desktop\Osorio.Nicolas.2D.TP3\Clases instanciables\obj\Debug\Clases instanciables.pdb
+C:\Users\Lenovo\Desktop\Osorio.Nicolas.2D.TP3\Clases instanciables\bin\Debug\Archivos.dll
+C:\Users\Lenovo\Desktop\Osorio.Nicolas.2D.TP3\Clases instanciables\bin\Debug\Archivos.pdb
+C:\Users\nosorio\Desktop\Osorio.Nicolas.2D.TP3\Clases instanciables\bin\Debug\Clases instanciables.dll
+C:\Users\nosorio\Desktop\Osorio.Nicolas.2D.TP3\Clases instanciables\bin\Debug\Clases instanciables.pdb
+C:\Users\nosorio\Desktop\Osorio.Nicolas.2D.TP3\Clases instanciables\bin\Debug\Archivos.dll
+C:\Users\nosorio\Desktop\Osorio.Nicolas.2D.TP3\Clases instanciables\bin\Debug\Clases abstractas.dll
+C:\Users\nosorio\Desktop\Osorio.Nicolas.2D.TP3\Clases instanciables\bin\Debug\Excepciones.dll
+C:\Users\nosorio\Desktop\Osorio.Nicolas.2D.TP3\Clases instanciables\bin\Debug\Archivos.pdb
+C:\Users\nosorio\Desktop\Osorio.Nicolas.2D.TP3\Clases instanciables\bin\Debug\Clases abstractas.pdb
+C:\Users\nosorio\Desktop\Osorio.Nicolas.2D.TP3\Clases instanciables\bin\Debug\Excepciones.pdb
+C:\Users\nosorio\Desktop\Osorio.Nicolas.2D.TP3\Clases instanciables\obj\Debug\Clases instanciables.csprojResolveAssemblyReference.cache
+C:\Users\nosorio\Desktop\Osorio.Nicolas.2D.TP3\Clases instanciables\obj\Debug\Clases instanciables.dll
+C:\Users\nosorio\Desktop\Osorio.Nicolas.2D.TP3\Clases instanciables\obj\Debug\Clases instanciables.pdb

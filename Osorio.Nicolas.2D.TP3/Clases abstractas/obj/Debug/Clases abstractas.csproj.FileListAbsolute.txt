@@ -1,0 +1,14 @@
+C:\Users\Lenovo\Desktop\Osorio.Nicolas.2D.TP3\Clases abstractas\bin\Debug\Clases abstractas.dll
+C:\Users\Lenovo\Desktop\Osorio.Nicolas.2D.TP3\Clases abstractas\bin\Debug\Clases abstractas.pdb
+C:\Users\Lenovo\Desktop\Osorio.Nicolas.2D.TP3\Clases abstractas\bin\Debug\Excepciones.dll
+C:\Users\Lenovo\Desktop\Osorio.Nicolas.2D.TP3\Clases abstractas\bin\Debug\Excepciones.pdb
+C:\Users\Lenovo\Desktop\Osorio.Nicolas.2D.TP3\Clases abstractas\obj\Debug\Clases abstractas.dll
+C:\Users\Lenovo\Desktop\Osorio.Nicolas.2D.TP3\Clases abstractas\obj\Debug\Clases abstractas.pdb
+C:\Users\Lenovo\Desktop\Osorio.Nicolas.2D.TP3\Clases abstractas\obj\Debug\Clases abstractas.csprojResolveAssemblyReference.cache
+C:\Users\nosorio\Desktop\Osorio.Nicolas.2D.TP3\Clases abstractas\bin\Debug\Clases abstractas.dll
+C:\Users\nosorio\Desktop\Osorio.Nicolas.2D.TP3\Clases abstractas\bin\Debug\Clases abstractas.pdb
+C:\Users\nosorio\Desktop\Osorio.Nicolas.2D.TP3\Clases abstractas\bin\Debug\Excepciones.dll
+C:\Users\nosorio\Desktop\Osorio.Nicolas.2D.TP3\Clases abstractas\bin\Debug\Excepciones.pdb
+C:\Users\nosorio\Desktop\Osorio.Nicolas.2D.TP3\Clases abstractas\obj\Debug\Clases abstractas.csprojResolveAssemblyReference.cache
+C:\Users\nosorio\Desktop\Osorio.Nicolas.2D.TP3\Clases abstractas\obj\Debug\Clases abstractas.dll
+C:\Users\nosorio\Desktop\Osorio.Nicolas.2D.TP3\Clases abstractas\obj\Debug\Clases abstractas.pdb
