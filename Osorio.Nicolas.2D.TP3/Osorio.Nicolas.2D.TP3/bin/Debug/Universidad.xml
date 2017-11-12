@@ -8,12 +8,6 @@
       <Nombre>Juan</Nombre>
     </Alumno>
     <Alumno>
-      <Apellido>Martinez</Apellido>
-      <DNI>12234458</DNI>
-      <Nacionalidad>Extranjero</Nacionalidad>
-      <Nombre>Juana</Nombre>
-    </Alumno>
-    <Alumno>
       <Apellido>Gutierrez</Apellido>
       <DNI>12234456</DNI>
       <Nacionalidad>Argentino</Nacionalidad>

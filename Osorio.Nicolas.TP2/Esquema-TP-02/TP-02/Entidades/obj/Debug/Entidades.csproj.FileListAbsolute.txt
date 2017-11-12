@@ -1,0 +1,30 @@
+D:\Federico\VB .Net\Visual C#\utn\TP-02\Entidades\bin\Debug\Entidades.dll
+D:\Federico\VB .Net\Visual C#\utn\TP-02\Entidades\bin\Debug\Entidades.pdb
+D:\Federico\VB .Net\Visual C#\utn\TP-02\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+D:\Federico\VB .Net\Visual C#\utn\TP-02\Entidades\obj\Debug\Entidades.dll
+D:\Federico\VB .Net\Visual C#\utn\TP-02\Entidades\obj\Debug\Entidades.pdb
+D:\VisualStudio\Federico Dávila\TP-02\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+D:\VisualStudio\Federico Dávila\TP-02\Entidades\obj\Debug\Entidades.dll
+D:\VisualStudio\Federico Dávila\TP-02\Entidades\obj\Debug\Entidades.pdb
+D:\VisualStudio\Federico Dávila\TP-02\Entidades\bin\Debug\Entidades.dll
+D:\VisualStudio\Federico Dávila\TP-02\Entidades\bin\Debug\Entidades.pdb
+C:\Users\nicolas_osorio\Desktop\TP2_Laboratorio\Esquema-TP-02\TP-02\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+C:\Users\nicolas_osorio\Desktop\TP2_Laboratorio\Esquema-TP-02\TP-02\Entidades\obj\Debug\Entidades.dll
+C:\Users\nicolas_osorio\Desktop\TP2_Laboratorio\Esquema-TP-02\TP-02\Entidades\obj\Debug\Entidades.pdb
+C:\Users\nicolas_osorio\Desktop\TP2_Laboratorio\Esquema-TP-02\TP-02\Entidades\bin\Debug\Entidades.dll
+C:\Users\nicolas_osorio\Desktop\TP2_Laboratorio\Esquema-TP-02\TP-02\Entidades\bin\Debug\Entidades.pdb
+C:\Users\nicolas_osorio\Desktop\Laboratorio\TP2_Laboratorio\Esquema-TP-02\TP-02\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+C:\Users\nicolas_osorio\Desktop\Laboratorio\TP2_Laboratorio\Esquema-TP-02\TP-02\Entidades\obj\Debug\Entidades.dll
+C:\Users\nicolas_osorio\Desktop\Laboratorio\TP2_Laboratorio\Esquema-TP-02\TP-02\Entidades\obj\Debug\Entidades.pdb
+C:\Users\nicolas_osorio\Desktop\Laboratorio\TP2_Laboratorio\Esquema-TP-02\TP-02\Entidades\bin\Debug\Entidades.dll
+C:\Users\nicolas_osorio\Desktop\Laboratorio\TP2_Laboratorio\Esquema-TP-02\TP-02\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Lenovo\Desktop\Laboratorio\TP2_Laboratorio\Esquema-TP-02\TP-02\Entidades\bin\Debug\Entidades.dll
+C:\Users\Lenovo\Desktop\Laboratorio\TP2_Laboratorio\Esquema-TP-02\TP-02\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Lenovo\Desktop\Laboratorio\TP2_Laboratorio\Esquema-TP-02\TP-02\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Desktop\Laboratorio\TP2_Laboratorio\Esquema-TP-02\TP-02\Entidades\obj\Debug\Entidades.dll
+C:\Users\Lenovo\Desktop\Laboratorio\TP2_Laboratorio\Esquema-TP-02\TP-02\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Lenovo\Desktop\TP2_Laboratorio\Esquema-TP-02\TP-02\Entidades\bin\Debug\Entidades.dll
+C:\Users\Lenovo\Desktop\TP2_Laboratorio\Esquema-TP-02\TP-02\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Lenovo\Desktop\TP2_Laboratorio\Esquema-TP-02\TP-02\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Desktop\TP2_Laboratorio\Esquema-TP-02\TP-02\Entidades\obj\Debug\Entidades.dll
+C:\Users\Lenovo\Desktop\TP2_Laboratorio\Esquema-TP-02\TP-02\Entidades\obj\Debug\Entidades.pdb
