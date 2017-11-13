@@ -103,18 +103,24 @@ namespace Navegador
         private void btnIr_Click(object sender, EventArgs e)
         {
             ProgresoDescarga(0);
-            if (!(txtUrl.Text.StartsWith("http://")))
+            if (!(txtUrl.Text.StartsWith("http")))
             {
                 txtUrl.Text = "http://" + txtUrl.Text;
             }
-            Uri url = new Uri(txtUrl.Text);
-            Descargador descarga = new Descargador(url);
-            archivos.guardar(txtUrl.Text);
-            
-            descarga.eventoDescarga += new Descargador.DescargaDelegado(ProgresoDescarga);
-            descarga.eventoDescargaFinalizada += new Descargador.DescargaCompletaDelegado(FinDescarga);
-            Thread descargador = new Thread (descarga.IniciarDescarga);
-            descargador.Start();        
+            try
+            {
+                Uri url = new Uri(txtUrl.Text);
+                Descargador descarga = new Descargador(url);
+                archivos.guardar(txtUrl.Text);
+                descarga.eventoDescarga += new Descargador.DescargaDelegado(ProgresoDescarga);
+                descarga.eventoDescargaFinalizada += new Descargador.DescargaCompletaDelegado(FinDescarga);
+                Thread descargador = new Thread(descarga.IniciarDescarga);
+                descargador.Start(); 
+            }
+            catch (UriFormatException)
+            {
+                FinDescarga("La url ingresada no es válida");
+            }
         }
 
         private void mostrarTodoElHistorialToolStripMenuItem_Click(object sender, EventArgs e)

@@ -47,8 +47,16 @@ namespace Hilo
         }
         private void WebClientDownloadCompleted(object sender, DownloadStringCompletedEventArgs e)
         {
-            this.html = e.Result;
-            eventoDescargaFinalizada.Invoke(this.html);
+            try
+            {
+                this.html = e.Result;
+                eventoDescargaFinalizada.Invoke(this.html);
+            }
+          
+            catch (System.Reflection.TargetInvocationException)
+            {
+                eventoDescargaFinalizada.Invoke("Pagina no encontrada");
+            }
         }
     }
 }

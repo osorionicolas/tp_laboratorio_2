@@ -8,3 +8,8 @@ C:\Users\Lenovo\Desktop\TP 4\Navegador TP-4 - AlumnoV2\Excepciones\bin\Debug\Exc
 C:\Users\Lenovo\Desktop\TP 4\Navegador TP-4 - AlumnoV2\Excepciones\obj\Debug\Excepciones.csprojResolveAssemblyReference.cache
 C:\Users\Lenovo\Desktop\TP 4\Navegador TP-4 - AlumnoV2\Excepciones\obj\Debug\Excepciones.dll
 C:\Users\Lenovo\Desktop\TP 4\Navegador TP-4 - AlumnoV2\Excepciones\obj\Debug\Excepciones.pdb
+C:\Users\Lenovo\Desktop\GIT\Osorio.Nicolas.2D.TP4\Navegador TP-4 - AlumnoV2\Excepciones\bin\Debug\Excepciones.dll
+C:\Users\Lenovo\Desktop\GIT\Osorio.Nicolas.2D.TP4\Navegador TP-4 - AlumnoV2\Excepciones\bin\Debug\Excepciones.pdb
+C:\Users\Lenovo\Desktop\GIT\Osorio.Nicolas.2D.TP4\Navegador TP-4 - AlumnoV2\Excepciones\obj\Debug\Excepciones.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Desktop\GIT\Osorio.Nicolas.2D.TP4\Navegador TP-4 - AlumnoV2\Excepciones\obj\Debug\Excepciones.dll
+C:\Users\Lenovo\Desktop\GIT\Osorio.Nicolas.2D.TP4\Navegador TP-4 - AlumnoV2\Excepciones\obj\Debug\Excepciones.pdb
