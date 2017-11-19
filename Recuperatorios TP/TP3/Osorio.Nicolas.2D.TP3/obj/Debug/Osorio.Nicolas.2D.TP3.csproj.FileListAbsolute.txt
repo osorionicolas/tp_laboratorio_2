@@ -1,0 +1,49 @@
+C:\Users\alumno\Desktop\Osorio.Nicolas.2D.TP3\Osorio.Nicolas.2D.TP3\bin\Debug\Osorio.Nicolas.2D.TP3.exe.config
+D:\Osorio.Nicolas.2D.TP3\Osorio.Nicolas.2D.TP3\bin\Debug\Osorio.Nicolas.2D.TP3.exe.config
+C:\Users\nosorio\Documents\Osorio.Nicolas.2D.TP3\Osorio.Nicolas.2D.TP3\bin\Debug\Osorio.Nicolas.2D.TP3.exe.config
+F:\Osorio.Nicolas.2D.TP3\Osorio.Nicolas.2D.TP3\bin\Debug\Osorio.Nicolas.2D.TP3.exe.config
+F:\Osorio.Nicolas.2D.TP3\Osorio.Nicolas.2D.TP3\obj\Debug\Osorio.Nicolas.2D.TP3.csprojResolveAssemblyReference.cache
+D:\Osorio.Nicolas.2D.TP3\Osorio.Nicolas.2D.TP3\obj\Debug\Osorio.Nicolas.2D.TP3.csprojResolveAssemblyReference.cache
+D:\Osorio.Nicolas.2D.TP3\Osorio.Nicolas.2D.TP3\bin\Debug\Osorio.Nicolas.2D.TP3.exe
+D:\Osorio.Nicolas.2D.TP3\Osorio.Nicolas.2D.TP3\bin\Debug\Osorio.Nicolas.2D.TP3.pdb
+D:\Osorio.Nicolas.2D.TP3\Osorio.Nicolas.2D.TP3\bin\Debug\Archivos.dll
+D:\Osorio.Nicolas.2D.TP3\Osorio.Nicolas.2D.TP3\bin\Debug\Clases abstractas.dll
+D:\Osorio.Nicolas.2D.TP3\Osorio.Nicolas.2D.TP3\bin\Debug\Clases instanciables.dll
+D:\Osorio.Nicolas.2D.TP3\Osorio.Nicolas.2D.TP3\bin\Debug\Excepciones.dll
+D:\Osorio.Nicolas.2D.TP3\Osorio.Nicolas.2D.TP3\bin\Debug\Archivos.pdb
+D:\Osorio.Nicolas.2D.TP3\Osorio.Nicolas.2D.TP3\bin\Debug\Clases abstractas.pdb
+D:\Osorio.Nicolas.2D.TP3\Osorio.Nicolas.2D.TP3\bin\Debug\Clases instanciables.pdb
+D:\Osorio.Nicolas.2D.TP3\Osorio.Nicolas.2D.TP3\bin\Debug\Excepciones.pdb
+D:\Osorio.Nicolas.2D.TP3\Osorio.Nicolas.2D.TP3\obj\Debug\Osorio.Nicolas.2D.TP3.exe
+D:\Osorio.Nicolas.2D.TP3\Osorio.Nicolas.2D.TP3\obj\Debug\Osorio.Nicolas.2D.TP3.pdb
+C:\Users\Lenovo\Desktop\Osorio.Nicolas.2D.TP3\Osorio.Nicolas.2D.TP3\bin\Debug\Osorio.Nicolas.2D.TP3.exe.config
+C:\Users\Lenovo\Desktop\Osorio.Nicolas.2D.TP3\Osorio.Nicolas.2D.TP3\obj\Debug\Osorio.Nicolas.2D.TP3.exe
+C:\Users\Lenovo\Desktop\Osorio.Nicolas.2D.TP3\Osorio.Nicolas.2D.TP3\obj\Debug\Osorio.Nicolas.2D.TP3.pdb
+C:\Users\Lenovo\Desktop\Osorio.Nicolas.2D.TP3\Osorio.Nicolas.2D.TP3\bin\Debug\Osorio.Nicolas.2D.TP3.exe
+C:\Users\Lenovo\Desktop\Osorio.Nicolas.2D.TP3\Osorio.Nicolas.2D.TP3\bin\Debug\Osorio.Nicolas.2D.TP3.pdb
+C:\Users\Lenovo\Desktop\Osorio.Nicolas.2D.TP3\Osorio.Nicolas.2D.TP3\bin\Debug\Archivos.dll
+C:\Users\Lenovo\Desktop\Osorio.Nicolas.2D.TP3\Osorio.Nicolas.2D.TP3\bin\Debug\Clases abstractas.dll
+C:\Users\Lenovo\Desktop\Osorio.Nicolas.2D.TP3\Osorio.Nicolas.2D.TP3\bin\Debug\Clases instanciables.dll
+C:\Users\Lenovo\Desktop\Osorio.Nicolas.2D.TP3\Osorio.Nicolas.2D.TP3\bin\Debug\Excepciones.dll
+C:\Users\Lenovo\Desktop\Osorio.Nicolas.2D.TP3\Osorio.Nicolas.2D.TP3\bin\Debug\Archivos.pdb
+C:\Users\Lenovo\Desktop\Osorio.Nicolas.2D.TP3\Osorio.Nicolas.2D.TP3\bin\Debug\Clases abstractas.pdb
+C:\Users\Lenovo\Desktop\Osorio.Nicolas.2D.TP3\Osorio.Nicolas.2D.TP3\bin\Debug\Clases instanciables.pdb
+C:\Users\Lenovo\Desktop\Osorio.Nicolas.2D.TP3\Osorio.Nicolas.2D.TP3\bin\Debug\Excepciones.pdb
+C:\Users\Lenovo\Desktop\Osorio.Nicolas.2D.TP3\Osorio.Nicolas.2D.TP3\obj\Debug\Osorio.Nicolas.2D.TP3.csprojResolveAssemblyReference.cache
+C:\Users\nosorio\Desktop\Osorio.Nicolas.2D.TP3\Osorio.Nicolas.2D.TP3\bin\Debug\Osorio.Nicolas.2D.TP3.exe.config
+C:\Users\nosorio\Desktop\Osorio.Nicolas.2D.TP3\Osorio.Nicolas.2D.TP3\obj\Debug\Osorio.Nicolas.2D.TP3.exe
+C:\Users\nosorio\Desktop\Osorio.Nicolas.2D.TP3\Osorio.Nicolas.2D.TP3\obj\Debug\Osorio.Nicolas.2D.TP3.pdb
+C:\Users\nosorio\Desktop\Osorio.Nicolas.2D.TP3\Osorio.Nicolas.2D.TP3\bin\Debug\Osorio.Nicolas.2D.TP3.exe
+C:\Users\nosorio\Desktop\Osorio.Nicolas.2D.TP3\Osorio.Nicolas.2D.TP3\bin\Debug\Osorio.Nicolas.2D.TP3.pdb
+C:\Users\nosorio\Desktop\Osorio.Nicolas.2D.TP3\Osorio.Nicolas.2D.TP3\bin\Debug\Archivos.dll
+C:\Users\nosorio\Desktop\Osorio.Nicolas.2D.TP3\Osorio.Nicolas.2D.TP3\bin\Debug\Clases abstractas.dll
+C:\Users\nosorio\Desktop\Osorio.Nicolas.2D.TP3\Osorio.Nicolas.2D.TP3\bin\Debug\Clases instanciables.dll
+C:\Users\nosorio\Desktop\Osorio.Nicolas.2D.TP3\Osorio.Nicolas.2D.TP3\bin\Debug\Excepciones.dll
+C:\Users\nosorio\Desktop\Osorio.Nicolas.2D.TP3\Osorio.Nicolas.2D.TP3\bin\Debug\Archivos.pdb
+C:\Users\nosorio\Desktop\Osorio.Nicolas.2D.TP3\Osorio.Nicolas.2D.TP3\bin\Debug\Clases abstractas.pdb
+C:\Users\nosorio\Desktop\Osorio.Nicolas.2D.TP3\Osorio.Nicolas.2D.TP3\bin\Debug\Clases instanciables.pdb
+C:\Users\nosorio\Desktop\Osorio.Nicolas.2D.TP3\Osorio.Nicolas.2D.TP3\bin\Debug\Excepciones.pdb
+C:\Users\nosorio\Desktop\Osorio.Nicolas.2D.TP3\Osorio.Nicolas.2D.TP3\obj\Debug\Osorio.Nicolas.2D.TP3.csprojResolveAssemblyReference.cache
+E:\Osorio.Nicolas.2D.TP3\Osorio.Nicolas.2D.TP3\bin\Debug\Osorio.Nicolas.2D.TP3.exe.config
+E:\Osorio.Nicolas.2D.TP3\Osorio.Nicolas.2D.TP3\obj\Debug\Osorio.Nicolas.2D.TP3.exe
+E:\Osorio.Nicolas.2D.TP3\Osorio.Nicolas.2D.TP3\obj\Debug\Osorio.Nicolas.2D.TP3.pdb

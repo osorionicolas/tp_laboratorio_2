@@ -1,0 +1,11 @@
+F:\Osorio.Nicolas.2D.TP3\Archivos\obj\Debug\Archivos.csprojResolveAssemblyReference.cache
+D:\Osorio.Nicolas.2D.TP3\Archivos\obj\Debug\Archivos.csprojResolveAssemblyReference.cache
+D:\Osorio.Nicolas.2D.TP3\Archivos\bin\Debug\Archivos.dll
+D:\Osorio.Nicolas.2D.TP3\Archivos\bin\Debug\Archivos.pdb
+D:\Osorio.Nicolas.2D.TP3\Archivos\obj\Debug\Archivos.dll
+D:\Osorio.Nicolas.2D.TP3\Archivos\obj\Debug\Archivos.pdb
+C:\Users\Lenovo\Desktop\Osorio.Nicolas.2D.TP3\Archivos\bin\Debug\Archivos.dll
+C:\Users\Lenovo\Desktop\Osorio.Nicolas.2D.TP3\Archivos\bin\Debug\Archivos.pdb
+C:\Users\Lenovo\Desktop\Osorio.Nicolas.2D.TP3\Archivos\obj\Debug\Archivos.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Desktop\Osorio.Nicolas.2D.TP3\Archivos\obj\Debug\Archivos.dll
+C:\Users\Lenovo\Desktop\Osorio.Nicolas.2D.TP3\Archivos\obj\Debug\Archivos.pdb

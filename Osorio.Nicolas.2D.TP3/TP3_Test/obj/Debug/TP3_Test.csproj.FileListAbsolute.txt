@@ -1,0 +1,5 @@
+C:\Users\Lenovo\Desktop\GIT\Osorio.Nicolas.2D.TP3\TP3_Test\bin\Debug\TP3_Test.dll
+C:\Users\Lenovo\Desktop\GIT\Osorio.Nicolas.2D.TP3\TP3_Test\bin\Debug\TP3_Test.pdb
+C:\Users\Lenovo\Desktop\GIT\Osorio.Nicolas.2D.TP3\TP3_Test\obj\Debug\TP3_Test.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Desktop\GIT\Osorio.Nicolas.2D.TP3\TP3_Test\obj\Debug\TP3_Test.dll
+C:\Users\Lenovo\Desktop\GIT\Osorio.Nicolas.2D.TP3\TP3_Test\obj\Debug\TP3_Test.pdb

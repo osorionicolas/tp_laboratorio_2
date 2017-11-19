@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\Osorio.Nicolas.2D.TP3\TP3_Test\obj\Debug\TP3_Test.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Desktop\Osorio.Nicolas.2D.TP3\TP3_Test\bin\Debug\TP3_Test.dll
+C:\Users\Lenovo\Desktop\Osorio.Nicolas.2D.TP3\TP3_Test\bin\Debug\TP3_Test.pdb
+C:\Users\Lenovo\Desktop\Osorio.Nicolas.2D.TP3\TP3_Test\bin\Debug\Clases abstractas.dll
+C:\Users\Lenovo\Desktop\Osorio.Nicolas.2D.TP3\TP3_Test\bin\Debug\Clases instanciables.dll
+C:\Users\Lenovo\Desktop\Osorio.Nicolas.2D.TP3\TP3_Test\bin\Debug\Excepciones.dll
+C:\Users\Lenovo\Desktop\Osorio.Nicolas.2D.TP3\TP3_Test\bin\Debug\Osorio.Nicolas.2D.TP3.exe
+C:\Users\Lenovo\Desktop\Osorio.Nicolas.2D.TP3\TP3_Test\bin\Debug\Archivos.dll
+C:\Users\Lenovo\Desktop\Osorio.Nicolas.2D.TP3\TP3_Test\bin\Debug\Clases abstractas.pdb
+C:\Users\Lenovo\Desktop\Osorio.Nicolas.2D.TP3\TP3_Test\bin\Debug\Clases instanciables.pdb
+C:\Users\Lenovo\Desktop\Osorio.Nicolas.2D.TP3\TP3_Test\bin\Debug\Excepciones.pdb
+C:\Users\Lenovo\Desktop\Osorio.Nicolas.2D.TP3\TP3_Test\bin\Debug\Osorio.Nicolas.2D.TP3.pdb
+C:\Users\Lenovo\Desktop\Osorio.Nicolas.2D.TP3\TP3_Test\bin\Debug\Archivos.pdb
+C:\Users\Lenovo\Desktop\Osorio.Nicolas.2D.TP3\TP3_Test\obj\Debug\TP3_Test.dll
+C:\Users\Lenovo\Desktop\Osorio.Nicolas.2D.TP3\TP3_Test\obj\Debug\TP3_Test.pdb
