@@ -47,3 +47,6 @@ C:\Users\nosorio\Desktop\Osorio.Nicolas.2D.TP3\Osorio.Nicolas.2D.TP3\obj\Debug\O
 E:\Osorio.Nicolas.2D.TP3\Osorio.Nicolas.2D.TP3\bin\Debug\Osorio.Nicolas.2D.TP3.exe.config
 E:\Osorio.Nicolas.2D.TP3\Osorio.Nicolas.2D.TP3\obj\Debug\Osorio.Nicolas.2D.TP3.exe
 E:\Osorio.Nicolas.2D.TP3\Osorio.Nicolas.2D.TP3\obj\Debug\Osorio.Nicolas.2D.TP3.pdb
+C:\Users\Lenovo\Desktop\GIT\Recuperatorios TP\TP3\Osorio.Nicolas.2D.TP3\bin\Debug\Osorio.Nicolas.2D.TP3.exe.config
+C:\Users\Lenovo\Desktop\GIT\Recuperatorios TP\TP3\Osorio.Nicolas.2D.TP3\obj\Debug\Osorio.Nicolas.2D.TP3.exe
+C:\Users\Lenovo\Desktop\GIT\Recuperatorios TP\TP3\Osorio.Nicolas.2D.TP3\obj\Debug\Osorio.Nicolas.2D.TP3.pdb
