@@ -1,0 +1,5 @@
+C:\Users\Lenovo\Desktop\Truco\Truco\bin\Debug\Truco.dll
+C:\Users\Lenovo\Desktop\Truco\Truco\bin\Debug\Truco.pdb
+C:\Users\Lenovo\Desktop\Truco\Truco\obj\Debug\Truco.dll
+C:\Users\Lenovo\Desktop\Truco\Truco\obj\Debug\Truco.pdb
+C:\Users\Lenovo\Desktop\Truco\Truco\obj\Debug\Truco.csprojResolveAssemblyReference.cache

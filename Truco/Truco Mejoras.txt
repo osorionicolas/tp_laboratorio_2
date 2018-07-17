@@ -1,0 +1,6 @@
+Cuando el usuario gana dos manos y aparece el cartel de que gano, deja que tire otra carta
+arreglar envido
+sigue jugando cuando no debe
+no 	quiere truco y no pone cartelito de usuario gano la mano
+al igualar carta deja jugar una sola
+el usuario perdio mano pero no dio puntos de envido no querido

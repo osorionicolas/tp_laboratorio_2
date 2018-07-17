@@ -1,0 +1,236 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{82B19C89-C57C-4684-8B6A-5DDCCB0C9B87}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>TrucoPantalla</RootNamespace>
+    <AssemblyName>TrucoPantalla</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Tanto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tanto.Designer.cs">
+      <DependentUpon>Tanto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Usuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Usuario.Designer.cs">
+      <DependentUpon>Usuario.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Tanto.resx">
+      <DependentUpon>Tanto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Usuario.resx">
+      <DependentUpon>Usuario.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Truco\Truco.csproj">
+      <Project>{896e4cb5-cde8-4b6b-aa88-55ba98ac13c7}</Project>
+      <Name>Truco</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\carta.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CincoBasto.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CincoCopa.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CincoEspada.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CincoOro.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CuatroBasto.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CuatroCopa.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CuatroEspada.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CuatroOro.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\DiezBasto.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\DiezCopa.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\DiezEspada.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\DiezOro.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\DoceBasto.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\DoceCopa.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\DoceEspada.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\DoceOro.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\DosBasto.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\DosCopa.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\DosEspada.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\DosOro.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\OnceBasto.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\OnceCopa.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\OnceEspada.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\OnceOro.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\seis_copa.jpgCopa.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SeisBasto.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SeisEspada.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SeisOro.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SieteBasto.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SieteCopa.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SieteEspada.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SieteOro.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TresBasto.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TresCopa.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TresEspada.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TresOro.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\UnoBasto.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\UnoCopa.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\UnoEspada.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\UnoOro.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

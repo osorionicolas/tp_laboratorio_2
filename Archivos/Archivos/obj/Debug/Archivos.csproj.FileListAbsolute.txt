@@ -1,0 +1,10 @@
+C:\Users\Lenovo\Desktop\Archivos\Archivos\bin\Debug\Archivos.exe.config
+C:\Users\Lenovo\Desktop\Archivos\Archivos\bin\Debug\Archivos.exe
+C:\Users\Lenovo\Desktop\Archivos\Archivos\bin\Debug\Archivos.pdb
+C:\Users\Lenovo\Desktop\Archivos\Archivos\obj\Debug\Archivos.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Desktop\Archivos\Archivos\obj\Debug\Archivos.exe
+C:\Users\Lenovo\Desktop\Archivos\Archivos\obj\Debug\Archivos.pdb
+C:\Users\Lenovo\Desktop\Archivos\Archivos\bin\Debug\VERDULEROS.mdb
+C:\Users\Lenovo\Documents\Desarrollo\Programacion\C#\Archivos\Archivos\bin\Debug\Archivos.exe.config
+C:\Users\Lenovo\Documents\Desarrollo\Programacion\C#\Archivos\Archivos\obj\Debug\Archivos.exe
+C:\Users\Lenovo\Documents\Desarrollo\Programacion\C#\Archivos\Archivos\obj\Debug\Archivos.pdb

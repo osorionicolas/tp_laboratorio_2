@@ -1,0 +1,13 @@
+C:\Users\Lenovo\Desktop\Truco\TrucoPantalla\bin\Debug\TrucoPantalla.exe.config
+C:\Users\Lenovo\Desktop\Truco\TrucoPantalla\bin\Debug\TrucoPantalla.exe
+C:\Users\Lenovo\Desktop\Truco\TrucoPantalla\bin\Debug\TrucoPantalla.pdb
+C:\Users\Lenovo\Desktop\Truco\TrucoPantalla\obj\Debug\TrucoPantalla.Truco.resources
+C:\Users\Lenovo\Desktop\Truco\TrucoPantalla\obj\Debug\TrucoPantalla.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\Truco\TrucoPantalla\obj\Debug\TrucoPantalla.csproj.GenerateResource.Cache
+C:\Users\Lenovo\Desktop\Truco\TrucoPantalla\obj\Debug\TrucoPantalla.exe
+C:\Users\Lenovo\Desktop\Truco\TrucoPantalla\obj\Debug\TrucoPantalla.pdb
+C:\Users\Lenovo\Desktop\Truco\TrucoPantalla\obj\Debug\TrucoPantalla.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Desktop\Truco\TrucoPantalla\bin\Debug\Truco.dll
+C:\Users\Lenovo\Desktop\Truco\TrucoPantalla\bin\Debug\Truco.pdb
+C:\Users\Lenovo\Desktop\Truco\TrucoPantalla\obj\Debug\TrucoPantalla.Usuario.resources
+C:\Users\Lenovo\Desktop\Truco\TrucoPantalla\obj\Debug\TrucoPantalla.Tanto.resources
